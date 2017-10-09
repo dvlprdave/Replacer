@@ -1,0 +1,18 @@
+.three-cards {
+    margin: 20px 0;
+    padding: 0 !important;
+}
+
+.three-cards h2 {
+    padding-bottom: 20px;
+}
+
+.trending {
+    margin-top: 100px;
+}
+
+/* Carousel  */
+
+.carousel-control.right, .carousel-control.left {
+    background-image:none;
+  }

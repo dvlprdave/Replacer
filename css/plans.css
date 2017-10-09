@@ -1,0 +1,36 @@
+.plans {
+    margin-bottom: 50px;
+}
+
+.plans h4 {
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+
+.plan1 {
+    border: 1px solid black;
+}
+
+.plan2 {
+    border: 1px solid black;
+}
+
+.plan3 {
+    border: 1px solid black;
+}
+
+.price {
+    font-size: 1.1em;
+    padding-top: 40px;
+}
+
+.buy-btn {
+    border-radius: 35px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 210px;
+}
+
+.buy-btn:hover {
+    background-color: #FD00A9;
+}

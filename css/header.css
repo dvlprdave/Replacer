@@ -1,0 +1,69 @@
+.header-container {
+    background: url("/images/yellowbuggy.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+
+.navbar-brand {
+    font-size: 2em;
+}
+
+.header-info {
+    margin-top: 100px;
+    color: white;
+}
+
+hr {
+    width: 100%;
+    margin-left: 0;
+}
+
+.fa-2x {
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+
+
+.form-inline {
+    margin-top: 150px;
+}
+
+.form-group {
+    padding: 10px;
+}
+
+.form-col {
+    padding: 0;
+    margin-bottom: 60px;
+
+}
+
+.form-control {
+    border-radius: 0;
+    border: none;
+}
+
+.pink-btn {
+    border-radius: 0;
+    border: none;
+    background-color: #FD00A9;
+    color: white;
+    width: 170px;
+    height: 34px;
+}
+
+@media screen and (max-width: 768px) {
+    .form-inline {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .intro-col {
+        margin: 0 auto;
+    }
+}
