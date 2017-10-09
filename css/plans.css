@@ -34,3 +34,23 @@
 .buy-btn:hover {
     background-color: #FD00A9;
 }
+
+/* Footer */
+
+footer {
+    margin-bottom: 30px;
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+}
+
+.replacer {
+    font-weight: 800;
+}
+
+.f-links a {
+    font-size: 1.5em;
+    padding: 0 5px;
+}
